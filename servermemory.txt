@@ -1,1 +1,1 @@
-Available Memory: 8.5Gi
+Available Memory: 8.6Gi
