@@ -7991,3 +7991,9 @@ To github.com:RohitDarekar816/serverhealthcheck.git
  2 files changed, 5 insertions(+), 1 deletion(-)
 To github.com:RohitDarekar816/serverhealthcheck.git
    679c9a6..b5bd8dc  main -> main
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+[main ad3c8ec] chore: update memory usage
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:RohitDarekar816/serverhealthcheck.git
+   b5bd8dc..ad3c8ec  main -> main
