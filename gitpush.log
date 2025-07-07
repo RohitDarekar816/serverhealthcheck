@@ -7997,3 +7997,7 @@ See "git help gc" for manual housekeeping.
  2 files changed, 7 insertions(+), 1 deletion(-)
 To github.com:RohitDarekar816/serverhealthcheck.git
    b5bd8dc..ad3c8ec  main -> main
+[main 71fe91d] chore: update memory usage
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:RohitDarekar816/serverhealthcheck.git
+   ad3c8ec..71fe91d  main -> main
