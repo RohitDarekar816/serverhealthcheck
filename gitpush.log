@@ -10444,3 +10444,7 @@ and the repository exists.
  2 files changed, 8 insertions(+), 1 deletion(-)
 To github.com:RohitDarekar816/serverhealthcheck.git
    c564756..2bd42bd  main -> main
+[main 1994101] chore: update memory usage
+ 2 files changed, 5 insertions(+), 1 deletion(-)
+To github.com:RohitDarekar816/serverhealthcheck.git
+   2bd42bd..1994101  main -> main
