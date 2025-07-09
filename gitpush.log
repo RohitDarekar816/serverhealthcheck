@@ -10596,3 +10596,10 @@ To github.com:RohitDarekar816/serverhealthcheck.git
  2 files changed, 5 insertions(+), 1 deletion(-)
 To github.com:RohitDarekar816/serverhealthcheck.git
    1c5d605..15eae42  main -> main
+[main 53aa9e0] chore: update memory usage
+ 2 files changed, 5 insertions(+), 1 deletion(-)
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
