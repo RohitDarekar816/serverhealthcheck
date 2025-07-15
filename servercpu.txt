@@ -1,1 +1,1 @@
-CPU Usage: 93.5
+CPU Usage: 76.7
