@@ -18874,3 +18874,7 @@ See "git help gc" for manual housekeeping.
  2 files changed, 7 insertions(+), 1 deletion(-)
 To github.com:RohitDarekar816/serverhealthcheck.git
    7771771..17aaee4  main -> main
+[main e4ba57c] chore: update memory usage
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:RohitDarekar816/serverhealthcheck.git
+   17aaee4..e4ba57c  main -> main
